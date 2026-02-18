@@ -42,11 +42,11 @@ print("Hello, world!")
 ```
 
 ###Tables###
-| Name    | Role      | Status   |
-|---------|-----------|----------|
-| Alice   | Developer | Active   |
-| Bob     | Designer  | Active   |
-| Charlie | Tester    | On leave |
+|  Tool   |  Purpose    |    Link                       
+|---------|-------------|-------------------------|
+| VS Code | Code editor | https://visualstudio.com|
+| Notion  | Work space  | https://www.notion.com  | 
+| Canva   | Designe     | https://www.canva.com   |
 
 ###Tasklists###
 - [x] Completed task
